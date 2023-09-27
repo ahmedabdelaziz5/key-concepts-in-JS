@@ -28,7 +28,7 @@ we can devide the language into 3 types:
 
 - the code is compiled during the execution
 
-_________________________________________________note that ______________________________________________________  
+_________________________________________________ note that ______________________________________________________  
 
 
 JavaScript is both an interpreted and a just-in-time (JIT) compiled language. This means that JavaScript code is first interpreted line by line,
