@@ -34,5 +34,7 @@ and this is because uneffient usage of memory in javascript
 and no memeory leaks will happen
 
 
+IF THIS EXPLANATION WAS HELPFUL PLEASE GIVE ME A STAR :)
+
 */
 
