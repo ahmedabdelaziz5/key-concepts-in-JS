@@ -123,5 +123,6 @@ This makes JavaScript a very versatile language that can be used to write a wide
 
 IF THIS EXPLANATION WAS HELPFUL PLEASE GIVE ME A STAR :)
 
+
 */
 
