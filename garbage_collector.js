@@ -33,5 +33,6 @@ and this is because uneffient usage of memory in javascript
 - garbage collector is a process that runs in the background and it is responsible for freeing up memory that is no longer used so that the memory can be reused
 and no memeory leaks will happen
 
+
 */
 
