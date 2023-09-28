@@ -48,4 +48,6 @@ JavaScript engines are responsible for interpreting and compiling JavaScript cod
 2- SpiderMonkey (used in Firefox)
 3- JavaScriptCore (used in Safari)
 
+IF THIS EXPLANATION WAS HELPFUL PLEASE GIVE ME A STAR :)
+
 */
