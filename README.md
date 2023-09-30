@@ -15,4 +15,7 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isJu
 #### 3- Programming Paradigms 
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isMultiParadigm.js
 
+#### 4- Js and prototypes   
+link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isProtoTypeBased.js
+
 
