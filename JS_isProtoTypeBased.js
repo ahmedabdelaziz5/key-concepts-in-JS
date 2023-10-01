@@ -108,7 +108,7 @@ and it will run without any errors , yeah thats's right but let me explain this 
 -when you go to your IDE and type this code using ES6 and run it , the js engine will deal with it in the background as it is a prototype that has a constructor and a greet method which is not a real class !!!!!!! 
 - so js doesn't have real classes but it has prototypes that has a constructor and methods and this is the way that js deal with classes in the background
 - BUT WAHT ABOUT THE class keyword and the code that we typed using ES6 ????????????
-- the class keyword is just a syntactic sugar that makes the code more readable and easier to write but it still not a real class this is the bad truth my yound coder :( 
+- the class keyword is just a syntactic sugar that makes the code more readable and easier to write but it still not a real class this is the bad truth my young coder :( 
 
 ************ SO BACK TO OUR QUESTION : does js has real classes ? the answer is NO 
 ************ SO BACK TO OUR QUESTION : does js has classes ? the answer is YES 
