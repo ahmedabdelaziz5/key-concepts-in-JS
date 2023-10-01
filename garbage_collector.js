@@ -130,7 +130,7 @@ ________________________________________________________________________________
 | 
 |   \\ Do some work/logic here //
 | 
-|    free(ptr);  \\ free up the memory of  clean the variable from it after we have done our work with it // 
+|    free(ptr);  \\ free up the memory and clean the variable from it after we have done our work with it // 
 |    return;
 | }
 |-------------------------------------------------------------------------------------------------------------------|
