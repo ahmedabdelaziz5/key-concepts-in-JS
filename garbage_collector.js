@@ -1,6 +1,6 @@
 /*
 
-                                     we will go throuth the following points :
+                            we will go through the following points :
 |----------------------------------------------------------------------------------------|
 | 1- what do we mean by memory leak and does it have types ?
 | 2- what is garbage collector and what garbage collector used for  ?
