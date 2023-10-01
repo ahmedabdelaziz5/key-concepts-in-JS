@@ -1,6 +1,6 @@
 /*
 
-                                                we will go throuth the following points :
+                                                we will go through the following points :
 |------------------------------------------------------------------------------------------------------------------------|
 | 1- what is a paradigm ?                                                                                                                                                                                         
 | 2- what are the main paradigms ?                                                                                                                                  
