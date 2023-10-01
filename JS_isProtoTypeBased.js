@@ -1,6 +1,6 @@
 /*
 
-                                                we will go throuth the following points :
+                                              we will go through the following points :
 |-------------------------------------------------------------------------------------------------------------------|
 | 1- what does the term prototypes refer to ?
 | 2- what is oop , how many types are exsist and difference between them  ? 
