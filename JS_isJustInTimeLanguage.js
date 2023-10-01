@@ -1,7 +1,7 @@
 /*
 
 
-                                                we will go throuth the following points :
+                                            we will go through the following points :
 |------------------------------------------------------------------------------------------------------------|
 | 1- types of programming languages and what is the difference between them ?
 | 2- what kind of languages is JS ?
