@@ -1,7 +1,7 @@
 #### - in this repository we will cover some important topcis every one of us use it daily .
 #### - if you are writiing code wiith any high level programming language especially Javascript this repo will be awesome for you .
 
-`if you found the topics useful don't forget to fork/star this repo , also give me your feedback via email/linkedIn profile` 
+`if you found the topics/explanation useful don't forget to fork/star this repository` 
 
 
 # Topics  :
