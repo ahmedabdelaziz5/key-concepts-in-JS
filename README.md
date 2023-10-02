@@ -19,4 +19,4 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isMu
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isProtoTypeBased.js
 
 #### 5- Js and first class functions 
-link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isProtoTypeBased.js
+link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_useFirstClassFunction.js
