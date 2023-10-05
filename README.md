@@ -21,5 +21,5 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isPr
 #### 5- Js and first class functions 
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_useFirstClassFunction.js
 
-#### 5- Js and dynamic typing 
+#### 6- Js and dynamic typing 
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isDynamicTyped.js
