@@ -15,7 +15,7 @@ ________________________________________________________________________________
 
 ** what are programming languages ?
 
-- REMEMBER YOUR FIRST QUESTION ON THE FIRST DAY LEARNING PROGRAMMIN ? 
+- REMEMBER YOUR FIRST QUESTION ON THE FIRST DAY LEARNING PROGRAMMING ? 
 - I KNOW THAT IT HAS BEEN A LONG TIME SINCE YOU HAVE HEARD THIS QUESTION BUT DON'T WORRY I WILL REMIND YOU WHAT IS IT 
 CAUSE WE NEED TO REMEBER IT TO UNDERSTAND THE REST OF THE ARTICLE
 
@@ -102,7 +102,7 @@ ________________________________________________________________________________
 - UMMMMMM NO PROBLEM keep your eyes on the screen and you will know what is it :)
 
 => AST is a tree representation of the abstract syntactic structure of source code written in a programming language. ( still don't understand it, i know )
-=> AST is a tree representation of every statement in our code becasue the engine needs to a better way to organize our code and make it easier to translate 
+=> AST is a tree representation of every statement in our code becasue the engine needs a better way to organize our code and make it easier to translate 
 => so the engine will take our code and convert it to AST ( tree ) and then it will use this tree to translate our code to machine code 
 
 => i know that you don't believe me so let's see an example :
@@ -174,8 +174,8 @@ ________________________________________________________________________________
 |-----------------------------------------|
 
 - if we run these two pieces of code we will find that the 2nd code is absolutely trash and it is very bad compared to the 1st code
-- in the first code we created a function and we created 2 objects from the same function 
-- in the second code we created a function and we created 2 instances from the same function 
+- in the first code we created a function and created 2 objects from the same function 
+- in the second code we created a function and created 2 instances from the same function 
 - so as a result in the 2nd code we will have 2 different objects of the same function that have the same properties and methods and this is a very bad thing
 
 *** NOTE :  things like that optimizer can't handle it because as we said before in the 5th concept that Js creates a hidden class for every object 
