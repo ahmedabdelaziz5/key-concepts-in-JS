@@ -26,3 +26,6 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_isDy
 
 #### 7- story of engines 
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_engine.js
+
+#### 8- deep dive in V8 part 1 (call stack)
+link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/deepDiveV8_callStack.js
