@@ -179,10 +179,9 @@ consider the following code , what do you think will be the output ?
 | function printFirstName(){
 |     console.log(firstName) ;
 |     printLastName() ;
-|     console.log("firstName is printed") ;                                             1-  V
-|   }                                                                                                       2- 8
-|                                                                           OUTPUT     =>         3- lastName is printed
-|                                                                                                           4- firstName is printed
+|     console.log("firstName is printed") ;                                            
+|   }                                                                                            
+|                                                                        
 | function printFirstName(){
 |     conso.log(lastName) ;
 |     console.log("lastName is printed") ;
@@ -190,6 +189,14 @@ consider the following code , what do you think will be the output ?
 |
 | printFirstName();
 |-----------------------------------------------------|
+
+|-------------------------------------|
+| OUTPUT  : 
+| 1-  V 
+| 2- 8
+| 3- lastName is printed
+| 4- firstName is printed
+|-------------------------------------|
 
 
 - so what happened here ? let's see :
