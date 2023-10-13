@@ -182,7 +182,7 @@ consider the following code , what do you think will be the output ?
 |     console.log("firstName is printed") ;                                            
 |   }                                                                                            
 |                                                                        
-| function printFirstName(){
+| function printLastName(){
 |     conso.log(lastName) ;
 |     console.log("lastName is printed") ;
 |   }
