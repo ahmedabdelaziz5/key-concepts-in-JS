@@ -1,9 +1,8 @@
 #### - in this repository we will cover some important topcis every one of us use it daily .
-#### - if you are writiing code wiith any high level programming language especially Javascript this repo will be awesome for you .
+## - if you are writiing code wiith any high level programming language especially Javascript this repo will be awesome for you .
+`if you found these topics/explanation useful don't forget to fork/star this repository` 
 
-`if you found the topics/explanation useful don't forget to fork/star this repository` 
-    
-![My photo](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/topics%20list.jpg)
+![Topics List](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/topics%20list.jpg)
 
 # Topics  :
 
@@ -30,3 +29,4 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_engi
 
 #### 8- deep dive in V8 part 1 (call stack)
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/deepDiveV8_callStack.js
+
