@@ -1,5 +1,5 @@
-#### if you are writiing code wiith any high level programming language ( especially Javascript ) this topics will be awesome for you .
-#### in this repository we will cover some important topcis everyone of us use it daily and was asked about in any Js interview.
+#### if you are writting code wiith any high level programming language ( especially Javascript ) these topics will be awesome for you .
+#### In this repository we will cover some important topics that each of us uses daily and which we have also been asked about in many Js interviews.
 
 `if you found these topics/explanation useful don't forget to fork/star this repository :) ` 
 
