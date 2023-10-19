@@ -1,7 +1,6 @@
 #### if you are writting code wiith any high level programming language ( especially Javascript ) these topics will be awesome for you .
-#### In this repository we will cover some important topics that each of us uses daily and which we have also been asked about in many Js interviews.
 
-`if you found these topics/explanation useful don't forget to fork/star this repository :) ` 
+`Don't forget to fork/star this repository :) ` 
 
 ![Topics List](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/topics%20list.jpg)
 
