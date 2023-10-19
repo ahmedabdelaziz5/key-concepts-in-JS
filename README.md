@@ -8,7 +8,7 @@
 Here is a professional way to draw the table of JavaScript concepts:
 
 | Topic | Subtopic |
-|---|---|---|
+|---|---|
 | Garbage collector | - |
 | Interpreter, Just-In-Time, and compiler | - |
 | Programming paradigms | - |
@@ -33,7 +33,7 @@ Here is a professional way to draw the table of JavaScript concepts:
 | Type coercion and currying | - |
 | Prototype inheritance | - |
 | Modules in JavaScript | - |
-| Introduction to unit testing and integration testing | - |
+| Introduction to unit testing and integration testing | -
 
 # Topics  :
 
