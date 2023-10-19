@@ -2,8 +2,6 @@
 #### - if you are writiing code wiith any high level programming language especially Javascript this repo will be awesome for you .
 
 `if you found the topics/explanation useful don't forget to fork/star this repository` 
-
-# Topics List :
     
 ![My photo](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/topics%20list.jpg)
 
