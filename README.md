@@ -30,3 +30,5 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_engi
 #### 8- deep dive in V8 part 1 (call stack)
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/deepDiveV8_callStack.js
 
+#### 8.1- deep dive in V8 -> call stack -> execution context
+link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/callStack_execution_context.js
