@@ -105,7 +105,7 @@ ________________________________________________________________________________
 
 - very easy one right ? let's see what happens in the call stack :) 
 
-*** first of all we will memory allocation stage ( global excution context ) : 
+*** first of all we will go through memory allocation stage ( global excution context ) : 
 
 - lets get to work does the first line has any thing to save in the memory ?  
 - yes it has a variable called message so we will reserve a space in the memory for it and assign it to undefined
