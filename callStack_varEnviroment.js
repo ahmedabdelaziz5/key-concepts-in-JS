@@ -6,7 +6,8 @@
 | 2- what is hoisting ? 
 | 3- applying hiositng on varibales 
 | 4- applying hiositng on functions 
-| 5- arguments object / reset parameters
+| 5- arguments object 
+| 6- reset parameters technique
 |----------------------------------------------------------------------------------------|
 
 
