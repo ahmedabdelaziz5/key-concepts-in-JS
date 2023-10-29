@@ -33,5 +33,5 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/deepDiv
 #### 8.1- deep dive in V8 -> call stack -> execution context
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/callStack_execution_context.js
 
-#### 8.2- deep dive in V8 -> call stack -> execution context -> variable environment and scope chain
-link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/callStack_varEnv_scop.js
+#### 8.2- deep dive in V8 -> call stack -> execution context -> variable environment 
+link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/callStack_varEnviroment.js
