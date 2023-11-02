@@ -249,28 +249,146 @@ ________________________________________________________________________________
 
 ** arrrow functions and scope chain
 
+- remmeber the last time we talked about the argument object ?
+
+- we wrote this code together in the last part  , do you remember it ?
+|----------------------------------------------|
+| const add = (a,b)=>{
+|   console.log(arguments);    
+| }
+|
+| add(5,10);
+|
+| output : TRY IT YOURSELF
+|-----------------------------------------------|
+-did you try it ? 
+- the output will be a very strange structure and we didn't explain it last time
+
+- the output you saw is the all data which the global execution context has , but why ?
+- it should console.log the arguments that we passed to the function add right ? 
+- BUT the surprise is that arrow functions don't have their own arguments object !!!!!!
+- and as we said before the scope chain of a child function has access to the data that are declared in the parent function 
+- so when we console.log() the arguments inside the arrow function it will make a variable lookup to the parent (parent is the global execution context)
+- it will console.log the arguments that are declared in the global execution context and this is the reason why we got this strange output 
+
+
+- let's see another example :
+- what if we make an arrow function and tried to access the arguments inside it ?
+- but this time the parent of the arrow function will be the an regular function (which has its own arguments object)
+
+- LET'S COOOOOOOOOOODE !!!!!!!  
+|------------------------------------------------------|
+| function add(a,b){
+|    fun = ()=>{
+|        console.log(arguments);
+|    }
+|    fun();
+| }
+|
+| add(1,2) // output : [Arguments] { '0': 1, '1': 2 }
+|------------------------------------------------------|
+
+- do you notice anything ?
+- the output is the arguments that we passed to the function add !!!!!!
+- so this time the parent of the arrow function is the an regular function (which has its own arguments object)
+- arrow function made a variable lookup to the parent which is the function add and it found the arguments object inside it
+- the last time the arrow function made a variable lookup to the parent which is the global execution context and it found the arguments object inside it
+
+
+__________________________CONCLUSION__________________________
+
+1- arrow functions don't have their own arguments object
+2- when we try to access the arguments inside an arrow function it will make a variable lookup to the closest parent
+3- parent can be the a function or the global execution context 
+4- arrow functions doesn't have their own "this" keyword -> follow me to the next part :)
+
+
+SUPER EAST AND SUPER COOL RIGHT ? :D
 
 ______________________________________________________________________________________________________________________________________________________Sixth Part : 
 
 ** "this" keyword
 
+- what is "this" keyword ?
+=> it is a special keyword that refers to the current object context (note: the value of this changes depending on where it is used in the code ) 
+
+- what do we mean by the previous sentence ?
+=> we mean that the value of "this" keyword holds the obj value which created the the execution context !!!
+=> we said that any function that is called creates a new execution context and pushes it to the call stack right ?
+=> so the value of "this" keyword holds the obj value which created the the execution context !!!
+
+**NOTE : 
+- int the following code we will use the first class function, if you didn't understand it read our artical ( part 5 ). 
+- link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/JS_useFirstClassFunction.js
+
+- let's see an example :
+|------------------------------------------------------------------------------------------------|
+| obj1 = {
+|    name : "ahmed",
+|    age : 20,
+|    method : function(){
+|        console.log(this);
+|    }
+| }
+|
+| obj1.method();  // output : { name: 'ahmed', age: 20, method: [Function: method] }
+| // obj1 is the object which created the execution context of the method function
+|------------------------------------------------------------------------------------------------|
+- as you can see the previous code has an object which is called obj1
+- inside the object we have a name, age and method which is called method
+- when we tried to invoke the method which prints the "this" keyword value we got the object itself
+- because the object is the one which created the execution context of the method function
+
+
+let's see another example :
+|--------------------------------------------------------------------------------------------------------------|
+| obj1 = {
+|    name : "ahmed",
+|    age : 20,
+|    method : function(){
+|        console.log(this);
+|    }
+| }
+|
+| var donkey = obj1.method;
+| donkey();  // output : global object ( which has all the data that the global execution context has )
+|--------------------------------------------------------------------------------------------------------------|
+- we created a variable which is called donkey and we assigned to it the method function ( which prints the "this" keyword value )
+- when we tried to invoke the method from the donkey variable we got the global object
+- but when we invoked the method from the object itself we got the object itself
+- why ?
+- as we said befor the "this" keyword has the value of the object which created the execution context
+- first example : the object itself created the execution context of the method function ( "this" has only the object itself )
+- second example : the donkey variable (which is from the global execution context) created the execution context of the method ( "this" has the global object )
+
+** now we know what is the "this" keyword and what is its value , now we need to know all the cases of the "this" keyword value
+
+- there are 3 cases of the "this" keyword value :
+
+1- "this" keyword value inside a regular function :
+-> it has the value of the global object ( which has all the data that the global data )
+
+2- "this" keyword value inside a method ( function inside an object ) 
+-> it only has the value of the object which created the execution context
+
+3- "this" keyword value inside an arrow function
+-> doesn't have its own "this" keyword value , it will make a variable lookup to the closest parent and get the "this" keyword value from it
+
+___________________________CONCLUSION___________________________
+
+1- arrow functions don't have their own "this" keyword value 
+2- when we try to access the "this" keyword inside an arrow function it will make a variable lookup to the closest parent and get the "this" keyword value from it
+3- "this" value is dynamic ( changes and not static )
+4- "this" value depends on who calls the function ( the object which created the execution context )
 
 
 
+- you can contact me ( via emai or linkedIn linkes on my profile ) if there is any thing you didn't understand or if you have any questions 
 
 
+- I HOPE YOU ENJOYED THIS ARTICLE AND ITS EXPLANATION 
 
-
-
-
-
-
-
-
-IF THIS EXPLANATION WAS HELPFUL PLEASE GIVE ME A STAR :)
-
-
-node callStack_executionContext_pert2.js
+- DON'T FORGET TO GIVE ME A STAR IF YOU LIKED IT :) 
 
 */
 
