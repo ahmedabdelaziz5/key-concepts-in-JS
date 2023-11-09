@@ -38,3 +38,6 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/callSta
 
 #### 8.2- deep dive in V8 -> call stack -> execution context -> scope chain , "this" keyword , stack overflow
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/callStack_executionContext_pert2.js
+
+#### 9- deep dive in V8 ->memory heap 
+link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/V8_part2_memoryHeap.js
