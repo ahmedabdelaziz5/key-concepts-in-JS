@@ -2,7 +2,7 @@
 
 `Don't forget to fork/star this repository :) ` 
 
-![Topics List](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/topics%20list.jpg)
+![Topics List](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/media/topics%20list.jpg)
 
 # Topics  :
 

@@ -102,7 +102,8 @@ let's see an example :
 8- we will store this address in the stack memory
 9- stack memory will have [ identifier : x -> value : 10 , identifier : obj -> value : "address we was given when we asked for a free memory block" ]
 10- what about the object itself ? it will be stored in the memory heap
-11- look at this picture for better explanation : link
+11- look at this picture for better explanation see this photo : 
+https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/media/memory%20stack%20and%20memory%20heap.jpg
 
 
 ********** memory deallocation :
