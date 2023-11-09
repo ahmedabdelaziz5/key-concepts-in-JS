@@ -2,7 +2,7 @@
 
 `Don't forget to fork/star this repository :) ` 
 
-![Topics List](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/media/memory%20stack%20and%20memory%20heap.jpg)
+![Topics List](https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/media/topics%20list.jpg)
 
 # Topics  :
 
