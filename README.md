@@ -42,5 +42,5 @@ link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/callSta
 #### 9- deep dive in V8 -> memory heap 
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/V8_part2_memoryHeap.js
 
-#### 10- deep dive in V8 -> Event-driven architecture and Event Loop 
+#### 10- deep dive in V8 -> intro to software architecture 
 link : https://github.com/ahmedabdelaziz5/key-concepts-in-JS/blob/master/V8_IntroToArchPart1.js
