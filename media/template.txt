@@ -36,3 +36,17 @@ ________________________________________________________________________________
 IF THIS EXPLANATION WAS HELPFUL PLEASE GIVE ME A STAR :)
 
 */
+
+
+
+
+what is Event-driven architecture ( EDA ) , it's components and how it works ?
+
+what is Event-driven architecture ( EDA ) ?
+=> Event-driven architecture is a software architecture pattern where the system responds to significant changes in state called "events."
+=> these events represent significant occurrences or changes in the state of the system and trigger actions by other components. 
+=> in simple words : EDA is a software architecture pattern that depends on events and these events are responsible for triggering actions by other components
+=> ( if component A does something, then component B will do something else ) that's the main idea of EDA
+
+
+what is Event Loop , it's components and how it works ?
